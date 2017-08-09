@@ -51,6 +51,21 @@ header nav ul li:hover {
     border-radius: 50%;
 }
 
+.google {
+    background-image: image-url('googlelogo.png');
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: 272px 92px;
+    height: 92px;
+    width: 272px;
+    display: block;
+    margin: 100px auto;
+    margin-bottom: -110px;
+    clear: both;
+    padding-top: 112px;
+    padding-bottom: 20px;
+}
+
 .logo_subtext {
     color: #4285f4;
     font: 16px/16px roboto-regular, arial, sans-serif;
